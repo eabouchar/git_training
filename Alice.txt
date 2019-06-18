@@ -5,3 +5,4 @@ and another
 this change was added remotely
 pull conflict
 remote change for stash
+remote change 2
